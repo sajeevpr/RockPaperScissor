@@ -2,13 +2,13 @@
 2. Test the project : mvn clean test
 3. This project is having the following structure
   ```
-       a. com.imc.game.constants - Constant classes
-       b. com.imc.game.model.exception - Exception classes
-       c. com.imc.game.hand - Hand implementations, Eg. Rock, Paper, Scissor
-       d. com.imc.game.player - Player implementations, Eg. HumanPlayer, ComputerPlayer
-       e. com.imc.game.score - Score board implementation classes
-       f. com.imc.game.util - Utility classes
-       g. com.imc.game.visitor - Visitor classes, Eg. Paper, Rock & Scissor Visitor classes
+       a. com.rps.game.constants - Constant classes
+       b. com.rps.game.model.exception - Exception classes
+       c. com.rps.game.hand - Hand implementations, Eg. Rock, Paper, Scissor
+       d. com.rps.game.player - Player implementations, Eg. HumanPlayer, ComputerPlayer
+       e. com.rps.game.score - Score board implementation classes
+       f. com.rps.game.util - Utility classes
+       g. com.rps.game.visitor - Visitor classes, Eg. Paper, Rock & Scissor Visitor classes
        h. com.rps.game.Game - Class where a single game is played with multiple rounds
        i. com.rps.game.Application - Main class where the Game begins
   ```
